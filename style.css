@@ -1,0 +1,107 @@
+html {
+  background: #0c6c9d;
+}
+
+body {
+  text-align: center;
+  width: 750px;
+  padding: 30px 50px;
+  margin: auto;
+  border-radius: 20px;
+  background: white;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.blocks {
+  background-color: rgb(31, 30, 30);
+  color: white;
+}
+
+#top {
+  color: white;
+  background-color: #053561;
+}
+
+#highschooltimetable {
+  border: 1px solid red;
+  margin: 10px auto;
+}
+
+#highschooltimetable td {
+  border: 1px dotted blue;
+  padding: 10px 10px;
+}
+
+.smalltimetext {
+  font-size: 9px;
+  font-style: italic;
+}
+
+.subjects:hover {
+  background: #06413a;
+  color: white;
+  cursor: cell;
+  font-size: 12px;
+  transition: font-size 0.5s, background 0.5s, color 0.5s;
+}
+
+.images1 {
+  height: 75px;
+  width: 75px;
+  margin: auto;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+#socialmedia {
+  margin: auto;
+}
+
+.socialmedia2 {
+  margin-top: 25px;
+  background-color: #0c6c9d;
+  padding: 25px 25px;
+  border-radius: 25px;
+  border: 0px solid black;
+  width: 350px;
+  margin: auto;
+}
+
+.collegetimetable {
+  margin-top: 30px;
+  border: 3px solid black;
+  background-color: cornflowerblue;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.collegetimetable td {
+  border: 2px solid rgb(44, 44, 44);
+  padding: 5px 5px;
+}
+
+.Collegetablecontents {
+  background-color: cornflowerblue;
+  margin-top: 50px;
+  padding: 5px 30px;
+  padding-bottom: 20px;
+  box-shadow: 1px 10px 15px 12px rgba(39, 39, 39, 0.3);
+}
+
+#Largegreentext {
+  color: darkgreen;
+  line-height: 4px;
+}
+
+#LUNCH1 {
+  line-height: 7px;
+}
+
+.smalltexts {
+  font-size: 13px;
+}
+
+.times {
+  padding: 0px 10px;
+}
